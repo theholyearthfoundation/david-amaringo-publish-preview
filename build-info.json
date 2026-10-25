@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "dc679b3a1b4b2040bfe03bcd46b796a0418cbb9c",
-  "shortCommit": "dc679b3",
-  "message": "feat 2026-10-25 — lineage: the time machine (earlier versions, nearest first); the first lab version is open; live is David's own address, david.iamoneself.com",
+  "commit": "bb8b9db4894b92060e007b05720a23d268127c19",
+  "shortCommit": "bb8b9db",
+  "message": "feat 2026-10-25 — the arrival: David's own welcome, Spanish first (language → Night or Daylight → Enchant and its trail), in his kaleidoscope; reopens from Power → Arrive again or ?arrival=again; waits for the lineage note",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:10:59-04:00",
-  "builtAt": "2026-10-25T23:11:51.395Z"
+  "committedAt": "2026-10-25T19:24:43-04:00",
+  "builtAt": "2026-10-25T23:25:32.626Z"
 }

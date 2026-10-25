@@ -1,4 +1,4 @@
-:HL["/david-amaringo-publish-preview/_next/static/chunks/0iu9agg-e0j4j.css","style"]
+:HL["/david-amaringo-publish-preview/_next/static/chunks/1y7qgudea-j9g.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"DRA8V9yHBW29BT3xM6ci3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"aLjzEPPT5P5GYNSVBz20d","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
