@@ -1,0 +1,127 @@
+2:"$Sreact.fragment"
+3:"/david-amaringo-publish-preview/_next/static/chunks/10lcvl1xtmi7k.js"
+4:"/david-amaringo-publish-preview/_next/static/chunks/26xiqe54nr493.js"
+5:"/david-amaringo-publish-preview/_next/static/chunks/3nkmffkq_3z7k.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+10:"/david-amaringo-publish-preview/_next/static/chunks/21t3f-437vt9e.js"
+11:I[48085,["$3","$4","$5","$10"],"LocaleLink"]
+12:I[5014,["$3","$4","$5","$10"],"default"]
+13:I[98822,["$3","$4","$5","$10"],"default"]
+19:"ViewportBoundary"
+1a:I[97367,["$3","$4","$5"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$3","$4","$5"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$3","$4","$5"],"IconMark"]
+:HL["/david-amaringo-publish-preview/gallery/davisionarts-self-portrait.jpg","image"]
+9:X
+c:X
+c:C
+14:T1e45,# 🎨 David Esquibel Amaringo
+
+**Artista visionario amazónico · Facilitador de retiros · Maestro de arte visionario · Enlace cultural · Traductor inglés–español · Guía de expediciones amazónicas**
+
+📍 Pucallpa, Perú
+
+---
+
+## 🌿 Resumen profesional
+
+Facilitador de retiros compasivo, artista visionario amazónico exhibido internacionalmente, educador, traductor y guía de expediciones amazónicas con más de 20 años de experiencia acompañando a visitantes internacionales por todo el Perú.
+
+Formado en la tradición artística y filosófica de la **Escuela Amazónica de Pintura Usko-Ayar** bajo la guía de **Pablo César Amaringo Shuña**. La filosofía de la escuela pone el acento en la excelencia artística, la integridad, el respeto por la naturaleza, la preservación cultural, el crecimiento personal y el servicio a los demás: principios que siguen guiando cada aspecto de la facilitación de retiros, la enseñanza y la comunicación intercultural de David.
+
+Se apoya en una amplia experiencia personal como *ayahuasquero* para brindar un acompañamiento compasivo a los participantes, fomentar una comunicación significativa entre los visitantes internacionales y los sanadores tradicionales, y ayudar a crear experiencias de retiro seguras, respetuosas y transformadoras.
+
+---
+
+## 🤝 Coordinador de operaciones de retiros, enlace cultural y co-facilitador
+**Holy Earth Foundation** · Perú · 2023–actualidad
+
+- Apoya la planificación y la operación de retiros internacionales de ayahuasca en todo el Perú, como enlace bilingüe de confianza entre la dirección de los retiros, los sanadores tradicionales, los centros de retiro y los visitantes internacionales.
+- Coordina las comunicaciones con centros de retiro, sanadores shipibo, hoteles, propietarios de locales y proveedores de servicios locales en todo el Perú.
+- Ayuda a desarrollar nuevas alianzas de retiro mediante la construcción de relaciones, la traducción y la comunicación constante.
+- Coordina el transporte, el alojamiento, los horarios, las compras y la logística operativa.
+- Ofrece servicios personalizados de conserjería: viajes, necesidades médicas, farmacias, trámites bancarios, telefonía móvil y otros apoyos locales.
+- Sirve como co-facilitador antes, durante y después de las ceremonias de ayahuasca.
+- Brinda una presencia serena y tranquilizadora a los participantes durante experiencias emocionalmente intensas, ayudándoles a sentirse seguros, comprendidos y acompañados a lo largo de todo su retiro.
+- Fomenta la comunicación significativa y el entendimiento cultural entre los visitantes internacionales y los sanadores amazónicos tradicionales.
+- Apoya a la dirección de los retiros con profesionalismo, discreción y un cuidado genuino.
+
+## 🌎 Facilitador principal de retiros, traductor y coordinador de operaciones
+**Asistente del Maestro Víctor Nieto** · 2010–2025
+
+- Trabajó durante quince años junto al respetado Maestro peruano de ayahuasca Víctor Nieto, como uno de sus principales facilitadores bilingües en retiros internacionales realizados en todo el Perú.
+- Facilitó la comunicación inglés–español durante ceremonias, consultas privadas, presentaciones educativas y las actividades diarias del retiro.
+- Acompañó a los participantes en cada etapa de la experiencia del retiro con profesionalismo, compasión y sensibilidad cultural.
+- Coordinó la logística de los retiros, el transporte, el alojamiento, los horarios y las operaciones diarias.
+- Introdujo a los visitantes internacionales en las tradiciones amazónicas, la cultura indígena y las prácticas de la medicina de las plantas.
+- Apoyó retiros en Iquitos, Tarapoto, Cusco, el Valle Sagrado, Puno y el lago Titicaca.
+
+## 🛶 Guía de expediciones amazónicas e intérprete cultural
+**Pink River Amazon Dolphin Lodge (PARD Expeditions)** · 2005–2015
+
+- Apoyó expediciones educativas y de conservación bajo la dirección de Roxanne Kremer, fundadora de la International Society for the Preservation of the Tropical Rainforest (ISPTR).
+- Guió a visitantes internacionales por la Amazonía, incluidos los sistemas fluviales del Ucayali, el Marañón, el Yarapa y el Yanayacu.
+- Dirigió excursiones educativas que introducían a los visitantes en la ecología amazónica, la fauna, las plantas medicinales, las culturas indígenas y la historia regional.
+- Coordinó el transporte, el alojamiento, las comidas, el equipo y la logística diaria en entornos remotos de selva.
+- Gestionó la atención a los visitantes, asegurando que disfrutaran de una expedición segura, organizada y memorable.
+- Sirvió como intérprete bilingüe entre las comunidades locales, el personal de la expedición y los visitantes internacionales.
+- Compartió el conocimiento de las tradiciones amazónicas y fomentó el aprecio por la conservación y el cuidado del medio ambiente.
+- Exhibió y vendió obra visionaria amazónica original a visitantes de todo el mundo.
+
+## 🖌️ Maestro de arte visionario
+**Escuela Amazónica de Pintura Usko-Ayar** · 2023–actualidad
+
+- Regresó a la reconocida Escuela Amazónica de Pintura Usko-Ayar para continuar la tradición educativa y artística establecida por Pablo César Amaringo Shuña. La filosofía de la escuela concibe el arte como un camino de toda la vida de desarrollo personal, preservación cultural, respeto por la naturaleza y servicio a la humanidad.
+- Enseña técnicas de pintura visionaria neoamazónica arraigadas en la tradición Usko-Ayar.
+- Acompaña a los estudiantes en composición, simbolismo, observación, teoría del color y expresión creativa, alentando la integridad, la disciplina y el aprendizaje para toda la vida.
+- Dirige talleres que cultivan la atención plena, la creatividad y el aprecio por la cultura amazónica y el mundo natural.
+- Ayuda a preservar y compartir una de las tradiciones artísticas más influyentes de la Amazonía.
+- Anima a los estudiantes a descubrir su propia voz creativa mientras desarrollan confianza, paciencia y un respeto duradero por la naturaleza.
+
+## 🌱 Otras organizaciones de retiro a las que ha servido
+
+Brindó el mismo alto nivel de facilitación de retiros, traducción bilingüe, acompañamiento a participantes, interpretación cultural y coordinación operativa a otras organizaciones de retiros de ayahuasca en todo el Perú:
+
+- **Remo Caspi** (Josué Pérez Ríos)
+- **Gonzalo Raigada**
+- Otros sanadores shipibo y organizaciones de retiro en toda la Amazonía peruana
+
+Sus responsabilidades incluyeron la facilitación de retiros y el acompañamiento a participantes; la traducción inglés–español durante ceremonias, consultas y talleres; la comunicación entre visitantes, líderes de retiro, sanadores y personal de apoyo; el transporte, el alojamiento, los horarios y la logística operativa; y la orientación intercultural para los participantes internacionales.
+
+---
+
+## 🧭 Competencias clave
+
+Facilitación de retiros · Enseñanza de arte visionario · Acompañamiento en ceremonias de ayahuasca · Traducción inglés–español · Guía de expediciones amazónicas · Enlace cultural · Cuidado de visitantes y apoyo emocional · Servicios de conserjería · Coordinación logística · Comunicación intercultural · Facilitación de talleres · Desarrollo de alianzas
+
+## 🗣️ Idiomas
+
+- **Español:** lengua materna
+- **Inglés:** dominio profesional
+
+---
+
+*Este currículum es una versión con formato de la trayectoria profesional de David Esquibel Amaringo, preparada por el equipo de la Holy Earth Foundation a partir de sus propios documentos. Preparado con cuidado por el equipo que construye su sitio. Traducción en revisión: David la está revisando.*
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"px-6 py-16 max-w-2xl mx-auto","children":[["$","$L11",null,{"href":"/services#professional-background","className":"inline-flex items-center gap-1.5 text-xs text-azure-300 hover:text-azure-200 mb-8","children":[["$","$L12",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left h-3.5 w-3.5"}],"Volver a la trayectoria profesional"]}],["$","img",null,{"src":"/david-amaringo-publish-preview/gallery/davisionarts-self-portrait.jpg","alt":"Autorretrato de David Amaringo","className":"w-full h-40 object-cover rounded-2xl mb-8 canopy-breathe"}],["$","$L13",null,{"content":"$14"}],"$L15"]}],["$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"resume","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"docs","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+1:[["children",{"s":"es","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Currículum — David Amaringo"}],["$","meta","1",{"name":"description","content":"La trayectoria profesional completa de David Esquibel Amaringo, con formato para leer cómodamente."}],["$","link","2",{"rel":"canonical","href":"https://theholyearthfoundation.github.io/david-amaringo-public/es/docs/resume/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://theholyearthfoundation.github.io/david-amaringo-public/docs/resume/"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"https://theholyearthfoundation.github.io/david-amaringo-public/es/docs/resume/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://theholyearthfoundation.github.io/david-amaringo-public/docs/resume/"}],["$","meta","6",{"property":"og:title","content":"David Amaringo — Arte Visionario Amazónico"}],["$","meta","7",{"property":"og:description","content":"Arte visionario de ayahuasca desde la Amazonía, formado por Pablo César Amaringo Shuña, el legendario fundador de la escuela USKO-AYAR. Su hogar en línea, creciendo cada día."}],["$","meta","8",{"property":"og:url","content":"https://theholyearthfoundation.github.io/david-amaringo-public/es/"}],["$","meta","9",{"property":"og:locale","content":"es_ES"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"David Amaringo — Arte Visionario Amazónico"}],["$","meta","13",{"name":"twitter:description","content":"Arte visionario de ayahuasca desde la Amazonía, formado por Pablo César Amaringo Shuña, el legendario fundador de la escuela USKO-AYAR. Su hogar en línea, creciendo cada día."}],["$","link","14",{"rel":"icon","href":"/david-amaringo-publish-preview/icon.svg?icon.35dh42wedcbcq.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$9"}},"a":"$@20","u":"$@21","b":"SHqo_Ez4mkyCmr8RXQ4lQ"}
+22:I[48085,["$3","$4","$5","$10"],"T"]
+23:I[97367,["$3","$4","$5"],"OutletBoundary"]
+15:["$","p",null,{"className":"mt-12 text-xs text-neutral-600 text-center","children":[["$","$L22",null,{"children":"View the raw markdown on"}]," ",["$","a",null,{"href":"https://github.com/theholyearthfoundation/david-amaringo-publish-preview/blob/main/docs/es/resume.md","target":"_blank","rel":"noopener noreferrer","className":"underline underline-offset-2 hover:text-neutral-400","children":["$","$L22",null,{"children":"GitHub ↗"}]}]]}]
+16:["$","script","script-0",{"src":"/david-amaringo-publish-preview/_next/static/chunks/21t3f-437vt9e.js","async":true}]
+17:["$","$L23",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+21:true
+9:300
+24:null
+9:C
+20:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+1f:"$undefined"
+18:"$undefined"
