@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "109338d4312fcfa2c9b1a9555b48c9f983fb3422",
-  "shortCommit": "109338d",
-  "message": "Bump @types/node from 20.19.43 to 26.6.5 (#11)",
-  "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:44:21-04:00",
-  "builtAt": "2026-10-26T09:45:10.169Z"
+  "commit": "0ae3d3ef5a4ae3666994bd3b576771d87ce521f5",
+  "shortCommit": "0ae3d3e",
+  "message": "chore 2026-10-26 — Dependabot holds TypeScript 7 until typescript-eslint supports it",
+  "author": "drasticstatic",
+  "committedAt": "2026-10-26T05:46:39-04:00",
+  "builtAt": "2026-10-26T09:47:30.803Z"
 }
