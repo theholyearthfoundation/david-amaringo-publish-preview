@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "fe5708673bc258e4d9b128fbe40171fb06839252",
-  "shortCommit": "fe57086",
-  "message": "docs 2026-10-25 — keys-and-locks: repo names final; live at david.iamoneself.com (variables, CNAME); Actions and Dependabot switches; DNS verified; the domain's 2026-11-20 renewal",
+  "commit": "8e97790a614094d246a4abb64e5204e6c03fcaae",
+  "shortCommit": "8e97790",
+  "message": "chore 2026-10-25 — twins: AGENTS.md says what each copy should receive and how to check both ways; a PR template with the twin check; Dependabot version updates rehearse on preview",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:07:23-04:00",
-  "builtAt": "2026-10-26T01:08:15.815Z"
+  "committedAt": "2026-10-25T21:41:30-04:00",
+  "builtAt": "2026-10-26T01:42:22.050Z"
 }

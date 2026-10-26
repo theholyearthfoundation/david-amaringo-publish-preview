@@ -4,4 +4,4 @@
 :HL["/david-amaringo-publish-preview/_next/static/media/d4b605c61b941c57-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"es","h":64,"c":"$Q2"}]]
-0:{"b":"zo-sGskxOByZ0bpdQ_R4Q","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ek-taLAiMkSDMW57N1sEb","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
