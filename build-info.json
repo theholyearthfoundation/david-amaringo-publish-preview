@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "5e98247d7409a107116097f278770a8817a32b6a",
-  "shortCommit": "5e98247",
-  "message": "Bump the minor-and-patch group with 6 updates (#7)",
+  "commit": "3b657a271b24d4f78e18cc8fd301c816ed1cbbdb",
+  "shortCommit": "3b657a2",
+  "message": "Bump eslint from 9.39.5 to 10.13.0 (#8)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:38:35-04:00",
-  "builtAt": "2026-10-26T09:39:26.186Z"
+  "committedAt": "2026-10-26T05:40:27-04:00",
+  "builtAt": "2026-10-26T09:41:07.967Z"
 }
