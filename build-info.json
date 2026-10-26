@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "0d1a027b17f9c44526ac1c51388c101cba131cf5",
-  "shortCommit": "0d1a027",
-  "message": "docs 2026-10-26 — David's review sheet (Spanish first): ten things to bless; the tracker triaged (46 items); AGENTS.md's Spanish gallery path fixed",
+  "commit": "69ef0a07cd5a21538eb9fec77d0091fcc11455d3",
+  "shortCommit": "69ef0a0",
+  "message": "chore 2026-10-26 — the code map (graphify-out/) refreshed: 551 nodes, 987 edges, including today's painting pages, share cards and focus care",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T15:43:09-04:00",
-  "builtAt": "2026-10-26T19:43:56.644Z"
+  "committedAt": "2026-10-26T15:47:59-04:00",
+  "builtAt": "2026-10-26T19:48:59.222Z"
 }
