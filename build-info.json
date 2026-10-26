@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "5ab5640f17ddfb40d469c046465fe477fa079a4f",
-  "shortCommit": "5ab5640",
-  "message": "feat 2026-10-25 — the Living Canvas (Lienzo Vivo): David's own Enchant trail, a visionary painting coming alive behind the pointer",
+  "commit": "fe5708673bc258e4d9b128fbe40171fb06839252",
+  "shortCommit": "fe57086",
+  "message": "docs 2026-10-25 — keys-and-locks: repo names final; live at david.iamoneself.com (variables, CNAME); Actions and Dependabot switches; DNS verified; the domain's 2026-11-20 renewal",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:49:18-04:00",
-  "builtAt": "2026-10-25T23:50:15.148Z"
+  "committedAt": "2026-10-25T21:07:23-04:00",
+  "builtAt": "2026-10-26T01:08:15.815Z"
 }
