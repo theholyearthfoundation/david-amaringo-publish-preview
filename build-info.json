@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "3b657a271b24d4f78e18cc8fd301c816ed1cbbdb",
-  "shortCommit": "3b657a2",
-  "message": "Bump eslint from 9.39.5 to 10.13.0 (#8)",
+  "commit": "14b99a6c010b6bdbb37f551dee701f59a2f127e4",
+  "shortCommit": "14b99a6",
+  "message": "Bump framer-motion from 12.43.0 to 14.6.0 (#10)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:40:27-04:00",
-  "builtAt": "2026-10-26T09:41:07.967Z"
+  "committedAt": "2026-10-26T05:42:14-04:00",
+  "builtAt": "2026-10-26T09:43:04.928Z"
 }
