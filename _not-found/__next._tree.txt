@@ -1,4 +1,4 @@
 :HL["/david-amaringo-publish-preview/_next/static/chunks/0wr-_mookpahq.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"LSD5UBZPKvwii1cw5c9qS","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"h-4L0izVa2jHUg30Vl0bO","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

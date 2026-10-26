@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "14b99a6c010b6bdbb37f551dee701f59a2f127e4",
-  "shortCommit": "14b99a6",
-  "message": "Bump framer-motion from 12.43.0 to 14.6.0 (#10)",
+  "commit": "109338d4312fcfa2c9b1a9555b48c9f983fb3422",
+  "shortCommit": "109338d",
+  "message": "Bump @types/node from 20.19.43 to 26.6.5 (#11)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:42:14-04:00",
-  "builtAt": "2026-10-26T09:43:04.928Z"
+  "committedAt": "2026-10-26T05:44:21-04:00",
+  "builtAt": "2026-10-26T09:45:10.169Z"
 }
