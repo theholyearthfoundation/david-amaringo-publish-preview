@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "3faf697fa2f7e408dc9cb5434e76852dd938df0f",
-  "shortCommit": "3faf697",
-  "message": "fix 2026-10-26 — Daylight's lightbox: the painting's title and story were dark ink on a black backdrop (1.0–3.9:1); now they sit on the dawn mist",
+  "commit": "0d1a027b17f9c44526ac1c51388c101cba131cf5",
+  "shortCommit": "0d1a027",
+  "message": "docs 2026-10-26 — David's review sheet (Spanish first): ten things to bless; the tracker triaged (46 items); AGENTS.md's Spanish gallery path fixed",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T15:35:47-04:00",
-  "builtAt": "2026-10-26T19:40:39.090Z"
+  "committedAt": "2026-10-26T15:43:09-04:00",
+  "builtAt": "2026-10-26T19:43:56.644Z"
 }

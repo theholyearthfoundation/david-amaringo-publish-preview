@@ -1,4 +1,4 @@
-:HL["/david-amaringo-publish-preview/_next/static/chunks/1f43_n4ilpj1q.css","style"]
+:HL["/david-amaringo-publish-preview/_next/static/chunks/3r-wlv9y8rbe_.css","style"]
 :HL["/david-amaringo-publish-preview/_next/static/media/369631335a87ae76-s.p.1i770ixt5m62g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-publish-preview/_next/static/media/41588bc4adb2b863-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-publish-preview/_next/static/media/d4b605c61b941c57-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"privacy-policy","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"docs","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"es","h":64,"c":"$Q2"}]]
-0:{"b":"7qxHboJNKxCNznKZBMiQh","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"EUbCPvHKa_ukoXsfMUSqR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
