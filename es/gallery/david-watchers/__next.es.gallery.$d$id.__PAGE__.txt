@@ -1,0 +1,34 @@
+2:"$Sreact.fragment"
+3:"/david-amaringo-publish-preview/_next/static/chunks/30g0jo299pr8e.js"
+4:"/david-amaringo-publish-preview/_next/static/chunks/1dgjq-kgog82j.js"
+5:"/david-amaringo-publish-preview/_next/static/chunks/14-hauuvo9c41.js"
+6:"/david-amaringo-publish-preview/_next/static/chunks/0f717ljg53fre.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+11:"/david-amaringo-publish-preview/_next/static/chunks/0nzlz13lij2o2.js"
+12:I[86048,["$3","$4","$5","$6","$11"],"default"]
+13:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$3","$4","$5","$6"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3","$4","$5","$6"],"$19"]
+1b:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"VisualArtwork\",\"@id\":\"https://david.iamoneself.com/es/gallery/david-watchers/#painting\",\"name\":\"Vigías\",\"description\":\"Un espíritu águila se alza sobre los pueblos del río: los guardianes del bosque vigilando\",\"image\":\"https://david.iamoneself.com/gallery/david-watchers.jpg\",\"url\":\"https://david.iamoneself.com/es/gallery/david-watchers/\",\"inLanguage\":\"es\",\"artform\":\"Pintura\",\"creator\":{\"@type\":\"Person\",\"@id\":\"https://david.iamoneself.com/#david\",\"name\":\"David Esquibel Amaringo\"}}"}}],["$","$L12",null,{"id":"david-watchers"}]],[["$","script","script-0",{"src":"/david-amaringo-publish-preview/_next/static/chunks/0nzlz13lij2o2.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$a"}}]]
+d:[["children",{"s":{"n":"id","t":"d","k":"david-watchers","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@e","v":"$f","s":"$a"},"c":"$Q10"}]]
+b:[["children",{"s":"gallery","h":131168,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@c","v":null,"s":"$a"},"c":"$Qd"}]]
+1:[["children",{"s":"es","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Vigías — David Amaringo"}],["$","meta","1",{"name":"description","content":"Un espíritu águila se alza sobre los pueblos del río: los guardianes del bosque vigilando"}],["$","link","2",{"rel":"canonical","href":"https://david.iamoneself.com/es/gallery/david-watchers/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://david.iamoneself.com/gallery/david-watchers/"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"https://david.iamoneself.com/es/gallery/david-watchers/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://david.iamoneself.com/gallery/david-watchers/"}],["$","meta","6",{"property":"og:title","content":"Vigías — David Amaringo"}],["$","meta","7",{"property":"og:description","content":"Un espíritu águila se alza sobre los pueblos del río: los guardianes del bosque vigilando"}],["$","meta","8",{"property":"og:url","content":"https://david.iamoneself.com/es/gallery/david-watchers/"}],["$","meta","9",{"property":"og:site_name","content":"David Amaringo"}],["$","meta","10",{"property":"og:locale","content":"es_ES"}],["$","meta","11",{"property":"og:image","content":"https://theholyearthfoundation.github.io/david-amaringo-publish-preview/og/david-watchers.jpg"}],["$","meta","12",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Pintura visionaria de un gran espíritu águila velando de noche sobre un pueblo a orillas de un río amazónico"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Vigías — David Amaringo"}],["$","meta","19",{"name":"twitter:description","content":"Un espíritu águila se alza sobre los pueblos del río: los guardianes del bosque vigilando"}],["$","meta","20",{"name":"twitter:image","content":"https://theholyearthfoundation.github.io/david-amaringo-publish-preview/og/david-watchers.jpg"}],["$","meta","21",{"name":"twitter:image:alt","content":"Pintura visionaria de un gran espíritu águila velando de noche sobre un pueblo a orillas de un río amazónico"}],["$","meta","22",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","23",{"name":"twitter:image:width","content":"1200"}],["$","meta","24",{"name":"twitter:image:height","content":"630"}],["$","link","25",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon.svg","type":"image/svg+xml","sizes":"any"}],["$","link","26",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link","27",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon.ico","sizes":"16x16 32x32 48x48"}],["$","link","28",{"rel":"apple-touch-icon","href":"/david-amaringo-publish-preview/builders-mark/apple-touch-icon.png"}],["$","$L1b","29",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$a"}},"a":"$@1d","u":"$@1e","b":"7qxHboJNKxCNznKZBMiQh"}
+15:null
+1e:true
+a:300
+a:C
+1d:0
+e:"$undefined"
+c:"$undefined"
+9:"$undefined"
+1c:"$undefined"
+16:"$undefined"

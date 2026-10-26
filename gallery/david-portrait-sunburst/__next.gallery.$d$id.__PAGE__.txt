@@ -1,0 +1,32 @@
+2:"$Sreact.fragment"
+3:"/david-amaringo-publish-preview/_next/static/chunks/30g0jo299pr8e.js"
+4:"/david-amaringo-publish-preview/_next/static/chunks/1dgjq-kgog82j.js"
+5:"/david-amaringo-publish-preview/_next/static/chunks/14-hauuvo9c41.js"
+6:"/david-amaringo-publish-preview/_next/static/chunks/0f717ljg53fre.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+f:"/david-amaringo-publish-preview/_next/static/chunks/0nzlz13lij2o2.js"
+10:I[86048,["$3","$4","$5","$6","$f"],"default"]
+11:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$3","$4","$5","$6"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6"],"$17"]
+19:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"VisualArtwork\",\"@id\":\"https://david.iamoneself.com/gallery/david-portrait-sunburst/#painting\",\"name\":\"Sunburst\",\"description\":\"An owl-headdressed elder offers a lotus to a hummingbird at dusk, jaguar and eagle looking on — the forest's creatures gathered at the golden hour\",\"image\":\"https://david.iamoneself.com/gallery/david-portrait-sunburst.jpg\",\"url\":\"https://david.iamoneself.com/gallery/david-portrait-sunburst/\",\"inLanguage\":\"en\",\"artform\":\"Painting\",\"creator\":{\"@type\":\"Person\",\"@id\":\"https://david.iamoneself.com/#david\",\"name\":\"David Esquibel Amaringo\"}}"}}],["$","$L10",null,{"id":"david-portrait-sunburst"}]],[["$","script","script-0",{"src":"/david-amaringo-publish-preview/_next/static/chunks/0nzlz13lij2o2.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$a"}}]]
+b:[["children",{"s":{"n":"id","t":"d","k":"david-portrait-sunburst","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+1:[["children",{"s":"gallery","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sunburst — David Amaringo"}],["$","meta","1",{"name":"description","content":"An owl-headdressed elder offers a lotus to a hummingbird at dusk, jaguar and eagle looking on — the forest's creatures gathered at the golden hour"}],["$","link","2",{"rel":"canonical","href":"https://david.iamoneself.com/gallery/david-portrait-sunburst/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://david.iamoneself.com/gallery/david-portrait-sunburst/"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"https://david.iamoneself.com/es/gallery/david-portrait-sunburst/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://david.iamoneself.com/gallery/david-portrait-sunburst/"}],["$","meta","6",{"property":"og:title","content":"Sunburst — David Amaringo"}],["$","meta","7",{"property":"og:description","content":"An owl-headdressed elder offers a lotus to a hummingbird at dusk, jaguar and eagle looking on — the forest's creatures gathered at the golden hour"}],["$","meta","8",{"property":"og:url","content":"https://david.iamoneself.com/gallery/david-portrait-sunburst/"}],["$","meta","9",{"property":"og:site_name","content":"David Amaringo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://theholyearthfoundation.github.io/david-amaringo-publish-preview/og/david-portrait-sunburst.jpg"}],["$","meta","12",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Visionary painting of an elder in an owl headdress offering a glowing flower to a hummingbird at sunset, with a jaguar and eagle nearby"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Sunburst — David Amaringo"}],["$","meta","19",{"name":"twitter:description","content":"An owl-headdressed elder offers a lotus to a hummingbird at dusk, jaguar and eagle looking on — the forest's creatures gathered at the golden hour"}],["$","meta","20",{"name":"twitter:image","content":"https://theholyearthfoundation.github.io/david-amaringo-publish-preview/og/david-portrait-sunburst.jpg"}],["$","meta","21",{"name":"twitter:image:alt","content":"Visionary painting of an elder in an owl headdress offering a glowing flower to a hummingbird at sunset, with a jaguar and eagle nearby"}],["$","meta","22",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","23",{"name":"twitter:image:width","content":"1200"}],["$","meta","24",{"name":"twitter:image:height","content":"630"}],["$","link","25",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon.svg","type":"image/svg+xml","sizes":"any"}],["$","link","26",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link","27",{"rel":"icon","href":"/david-amaringo-publish-preview/builders-mark/favicon.ico","sizes":"16x16 32x32 48x48"}],["$","link","28",{"rel":"apple-touch-icon","href":"/david-amaringo-publish-preview/builders-mark/apple-touch-icon.png"}],["$","$L19","29",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$a"}},"a":"$@1b","u":"$@1c","b":"7qxHboJNKxCNznKZBMiQh"}
+13:null
+1c:true
+a:300
+a:C
+1b:0
+c:"$undefined"
+9:"$undefined"
+1a:"$undefined"
+14:"$undefined"

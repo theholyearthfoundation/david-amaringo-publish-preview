@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "57d91821832c7c9962394ab170fd7693ca951503",
-  "shortCommit": "57d9182",
-  "message": "feat 2026-10-26 — Support David: a practice gift beside Connect Wallet (the arrival kit 1.5.2 walk through giving)",
+  "commit": "3faf697fa2f7e408dc9cb5434e76852dd938df0f",
+  "shortCommit": "3faf697",
+  "message": "fix 2026-10-26 — Daylight's lightbox: the painting's title and story were dark ink on a black backdrop (1.0–3.9:1); now they sit on the dawn mist",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T12:15:49-04:00",
-  "builtAt": "2026-10-26T16:16:33.711Z"
+  "committedAt": "2026-10-26T15:35:47-04:00",
+  "builtAt": "2026-10-26T19:40:39.090Z"
 }
