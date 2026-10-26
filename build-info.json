@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "cdfaada5dcf86b9f3d0736dbf8a5c7c473453b7f",
-  "shortCommit": "cdfaada",
-  "message": "chore 2026-10-26 — keys-and-locks: GitGuardian is scanning, the ChatGPT/Codex app is installed, Wix is Kenney's",
-  "author": "drasticstatic",
-  "committedAt": "2026-10-26T03:38:12-04:00",
-  "builtAt": "2026-10-26T07:38:49.173Z"
+  "commit": "79b5f2ea9ba9f8327bf23bb4277a106837671638",
+  "shortCommit": "79b5f2e",
+  "message": "Bump actions/setup-node from 4 to 7 (#5)",
+  "author": "dependabot[bot]",
+  "committedAt": "2026-10-26T05:34:48-04:00",
+  "builtAt": "2026-10-26T09:35:29.636Z"
 }
