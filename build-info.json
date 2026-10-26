@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "86b667f9d2a138e5aeb6a7f2e67cb928202387b3",
-  "shortCommit": "86b667f",
-  "message": "Bump actions/checkout from 4 to 7 (#6)",
+  "commit": "5e98247d7409a107116097f278770a8817a32b6a",
+  "shortCommit": "5e98247",
+  "message": "Bump the minor-and-patch group with 6 updates (#7)",
   "author": "dependabot[bot]",
-  "committedAt": "2026-10-26T05:36:27-04:00",
-  "builtAt": "2026-10-26T09:37:16.859Z"
+  "committedAt": "2026-10-26T05:38:35-04:00",
+  "builtAt": "2026-10-26T09:39:26.186Z"
 }
