@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "e01839b0bf645177bfaea44a6890f8ba9c4802ea",
-  "shortCommit": "e01839b",
-  "message": "docs 2026-10-27 — the PR template says how to merge a Promote: Create a merge commit, never squash",
+  "commit": "fb18ffe5ef50d9a8c066590f894b4068331e86af",
+  "shortCommit": "fb18ffe",
+  "message": "docs 2026-10-27 — AGENTS.md opens with a Spanish-first pointer for Kenney's AI helper (his ChatGPT, \"Alfred\"): the welcome written for it, in the I Am One Self workshop, then David's review sheet here",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T13:48:04-04:00",
-  "builtAt": "2026-10-27T17:49:54.624Z"
+  "committedAt": "2026-10-27T14:09:46-04:00",
+  "builtAt": "2026-10-27T18:12:06.441Z"
 }
