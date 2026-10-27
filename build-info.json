@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "674687ed0867471846d5edb417c36a47c80d7f67",
-  "shortCommit": "674687e",
-  "message": "docs 2026-10-26 — second pass logged: the demo feed's human patrons, the small leftovers, the Genesis mirror; the review sheet lists the new Spanish drafts",
+  "commit": "baa0c731b89ed155e55e29d30334a1899674a386",
+  "shortCommit": "baa0c73",
+  "message": "chore 2026-10-27 — the code map (graphify-out/) refreshed: 560 nodes, 1008 edges, including src/lib/painting.ts",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T18:55:08-04:00",
-  "builtAt": "2026-10-26T22:56:06.485Z"
+  "committedAt": "2026-10-27T00:55:56-04:00",
+  "builtAt": "2026-10-27T04:56:50.106Z"
 }
