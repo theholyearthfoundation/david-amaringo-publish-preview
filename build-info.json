@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "baa0c731b89ed155e55e29d30334a1899674a386",
-  "shortCommit": "baa0c73",
-  "message": "chore 2026-10-27 — the code map (graphify-out/) refreshed: 560 nodes, 1008 edges, including src/lib/painting.ts",
+  "commit": "50b5a9c193f9506728e083c8c08bc3b7627744fc",
+  "shortCommit": "50b5a9c",
+  "message": "docs 2026-10-27 — smooth trails logged: what was measured, the two causes (the veil's per-frame turbulence, the colour glows' repaints), the fixes, results and the Genesis mirror; the design history notes it",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T00:55:56-04:00",
-  "builtAt": "2026-10-27T04:56:50.106Z"
+  "committedAt": "2026-10-27T01:06:50-04:00",
+  "builtAt": "2026-10-27T05:07:39.521Z"
 }
