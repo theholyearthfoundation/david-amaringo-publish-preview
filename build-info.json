@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "50b5a9c193f9506728e083c8c08bc3b7627744fc",
-  "shortCommit": "50b5a9c",
-  "message": "docs 2026-10-27 — smooth trails logged: what was measured, the two causes (the veil's per-frame turbulence, the colour glows' repaints), the fixes, results and the Genesis mirror; the design history notes it",
+  "commit": "ecb8769c56a97bcd07d1dc84871cd5059f1b9d6c",
+  "shortCommit": "ecb8769",
+  "message": "chore 2026-10-27 — sync main into preview after the squash Promotes (no file changes: preview's tree is kept exactly)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T01:06:50-04:00",
-  "builtAt": "2026-10-27T05:07:39.521Z"
+  "committedAt": "2026-10-27T02:33:08-04:00",
+  "builtAt": "2026-10-27T06:34:02.985Z"
 }
