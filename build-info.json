@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "ecb8769c56a97bcd07d1dc84871cd5059f1b9d6c",
-  "shortCommit": "ecb8769",
-  "message": "chore 2026-10-27 — sync main into preview after the squash Promotes (no file changes: preview's tree is kept exactly)",
+  "commit": "9efb357178f94095783f3abaa0c976b7d8d2a448",
+  "shortCommit": "9efb357",
+  "message": "chore 2026-10-27 — record main's squash Promotes in preview's history (no file changes)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T02:33:08-04:00",
-  "builtAt": "2026-10-27T06:34:02.985Z"
+  "committedAt": "2026-10-27T13:47:20-04:00",
+  "builtAt": "2026-10-27T17:48:07.802Z"
 }
