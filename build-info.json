@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "fb18ffe5ef50d9a8c066590f894b4068331e86af",
-  "shortCommit": "fb18ffe",
-  "message": "docs 2026-10-27 — AGENTS.md opens with a Spanish-first pointer for Kenney's AI helper (his ChatGPT, \"Alfred\"): the welcome written for it, in the I Am One Self workshop, then David's review sheet here",
+  "commit": "32b51c8eb86cc1d6889dfa06ea58864f0ef41da5",
+  "shortCommit": "32b51c8",
+  "message": "docs 2026-10-29 — AGENTS.md: la bienvenida para el asistente de Kenney está ahora en el hogar de los miembros (.github-private) / the welcome for Kenney's helper now lives in the members' home",
   "author": "drasticstatic",
-  "committedAt": "2026-10-27T14:09:46-04:00",
-  "builtAt": "2026-10-27T18:12:06.441Z"
+  "committedAt": "2026-10-29T18:20:27-04:00",
+  "builtAt": "2026-10-29T22:21:21.033Z"
 }

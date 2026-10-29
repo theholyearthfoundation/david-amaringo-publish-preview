@@ -1,9 +1,9 @@
-:HL["/david-amaringo-publish-preview/_next/static/chunks/0wouvs89_i9i3.css","style"]
+:HL["/david-amaringo-publish-preview/_next/static/chunks/0rw6234qdpzts.css","style"]
 :HL["/david-amaringo-publish-preview/_next/static/media/369631335a87ae76-s.p.1i770ixt5m62g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/david-amaringo-publish-preview/_next/static/media/41588bc4adb2b863-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/david-amaringo-publish-preview/_next/static/media/d4b605c61b941c57-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/david-amaringo-publish-preview/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"david-ship-on-the-ocean","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"gallery","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"es","h":131136,"c":"$Q2"}]]
-0:{"b":"XjjkAud5oTWr2pB4s8xZ8","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"i2C-5mNSC1eT0FL7eW2rP","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
