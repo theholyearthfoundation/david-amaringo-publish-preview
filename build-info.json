@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "32b51c8eb86cc1d6889dfa06ea58864f0ef41da5",
-  "shortCommit": "32b51c8",
-  "message": "docs 2026-10-29 — AGENTS.md: la bienvenida para el asistente de Kenney está ahora en el hogar de los miembros (.github-private) / the welcome for Kenney's helper now lives in the members' home",
+  "commit": "202a462b1ddb92192ef886c2965384552b211154",
+  "shortCommit": "202a462",
+  "message": "AGENTS: proposals and PDFs travel with their markdown (link to my-template's Markdown beside the PDF and the TONES register)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-29T18:20:27-04:00",
-  "builtAt": "2026-10-29T22:21:21.033Z"
+  "committedAt": "2026-10-29T22:38:59-04:00",
+  "builtAt": "2026-10-30T02:39:53.331Z"
 }
