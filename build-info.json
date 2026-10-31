@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "202a462b1ddb92192ef886c2965384552b211154",
-  "shortCommit": "202a462",
-  "message": "AGENTS: proposals and PDFs travel with their markdown (link to my-template's Markdown beside the PDF and the TONES register)",
+  "commit": "b95e1a33a1f0f47eeaeb8e62fb9b3d7887afddc3",
+  "shortCommit": "b95e1a3",
+  "message": ":memo: docs(fleet): pending-tasks archive",
   "author": "drasticstatic",
-  "committedAt": "2026-10-29T22:38:59-04:00",
-  "builtAt": "2026-10-30T02:39:53.331Z"
+  "committedAt": "2026-10-31T13:24:37-04:00",
+  "builtAt": "2026-10-31T17:28:30.370Z"
 }
