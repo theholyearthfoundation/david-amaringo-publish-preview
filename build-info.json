@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "b95e1a33a1f0f47eeaeb8e62fb9b3d7887afddc3",
-  "shortCommit": "b95e1a3",
-  "message": ":memo: docs(fleet): pending-tasks archive",
+  "commit": "10f7b2050dbdf5aa539f4e4648ce2dfd55ac9107",
+  "shortCommit": "10f7b20",
+  "message": ":wrench: config(hooks): warn-only gitmoji hint, called after the attribution check",
   "author": "drasticstatic",
-  "committedAt": "2026-10-31T13:24:37-04:00",
-  "builtAt": "2026-10-31T17:28:30.370Z"
+  "committedAt": "2026-11-01T10:32:15-05:00",
+  "builtAt": "2026-11-01T15:33:37.848Z"
 }
