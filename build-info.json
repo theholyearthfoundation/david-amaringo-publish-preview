@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "10f7b2050dbdf5aa539f4e4648ce2dfd55ac9107",
-  "shortCommit": "10f7b20",
-  "message": ":wrench: config(hooks): warn-only gitmoji hint, called after the attribution check",
+  "commit": "672ba50b53ea29a0b2f1b5c7b18de273b4a2d37a",
+  "shortCommit": "672ba50",
+  "message": ":lock: security(lanes): the site's pictures and fonts are listed on purpose; the scanner is re-copied; the README stops naming the notes folder",
   "author": "drasticstatic",
-  "committedAt": "2026-11-01T10:32:15-05:00",
-  "builtAt": "2026-11-01T15:33:37.848Z"
+  "committedAt": "2026-11-02T15:29:03-05:00",
+  "builtAt": "2026-11-02T20:30:44.164Z"
 }
