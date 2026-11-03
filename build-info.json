@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "672ba50b53ea29a0b2f1b5c7b18de273b4a2d37a",
-  "shortCommit": "672ba50",
-  "message": ":lock: security(lanes): the site's pictures and fonts are listed on purpose; the scanner is re-copied; the README stops naming the notes folder",
+  "commit": "46a7ab9757447eb04b3b19c0d5a64a8ce638ee71",
+  "shortCommit": "46a7ab9",
+  "message": ":memo: docs(readme): david-amaringo gets a front door of its own",
   "author": "drasticstatic",
-  "committedAt": "2026-11-02T15:29:03-05:00",
-  "builtAt": "2026-11-02T20:30:44.164Z"
+  "committedAt": "2026-11-02T22:43:55-05:00",
+  "builtAt": "2026-11-03T03:45:34.946Z"
 }

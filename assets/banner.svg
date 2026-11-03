@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">David Amaringo</title>
+  <desc id="d">A home online for Amazonian visionary art. The picture: a 12-sided figure draws itself and its corners arrive one by one. With reduced motion, the finished picture shows at once.</desc>
+  <style>
+    /* Motion only for readers who have not asked for less. Outside this block everything is in its finished state. */
+    @media (prefers-reduced-motion: no-preference) {
+      .draw { stroke-dasharray: 100; animation: draw 2.6s cubic-bezier(.4,0,.2,1) both; }
+      .arrive { animation: arrive .5s ease-out both; }
+      .breathe { transform-box: fill-box; transform-origin: center; animation: breathe 8s steps(48) 3s infinite; }
+      .halo { transform-box: fill-box; transform-origin: center; animation: halo 5s steps(60) 3.6s infinite; }
+    }
+    @keyframes draw { from { stroke-dashoffset: 100 } to { stroke-dashoffset: 0 } }
+    @keyframes arrive { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes breathe { 0%, 100% { transform: scale(1) } 50% { transform: scale(1.07) } }
+    @keyframes halo { 0% { opacity: .55; transform: scale(1) } 70%, 100% { opacity: 0; transform: scale(2.1) } }
+    .halo { opacity: 0 }
+  </style>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191b41"/><stop offset="1" stop-color="#0f1328"/></linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="668" y1="0" x2="1160" y2="0"><stop offset="0.00" stop-color="#dc2626"/><stop offset="0.20" stop-color="#ea580c"/><stop offset="0.40" stop-color="#ca8a04"/><stop offset="0.60" stop-color="#16a34a"/><stop offset="0.80" stop-color="#2563eb"/><stop offset="1.00" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="620" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#2966eb" stop-opacity="0"/><stop offset=".35" stop-color="#2966eb"/><stop offset="1" stop-color="#99b4f6"/></linearGradient>
+    <clipPath id="card"><rect width="1200" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <!-- an opaque ground: the same picture on GitHub's light and dark themes -->
+    <rect width="1200" height="260" fill="url(#ground)"/>
+    <path d="M1012.1 147.5 L994.3 169.0 L968.1 178.8 L940.5 174.1 L919.0 156.3 L909.3 130.1 L913.9 102.5 L931.8 81.0 L958.0 71.2 L985.5 75.9 L1007.1 93.7 L1016.8 119.9Z" fill="#1c2a63" fill-opacity=".35" stroke="#203d8e" stroke-width="1.5"/>
+    <path d="M963.0 125.0L1051.8 140.0" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L1032.4 182.4" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L994.4 209.4" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L948.0 213.7" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L905.6 194.3" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L878.7 156.3" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L874.3 110.0" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L893.7 67.6" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L931.7 40.6" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L978.1 36.3" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L1020.4 55.7" stroke="#1c2a63" stroke-width="1"/>
+    <path d="M963.0 125.0L1047.4 93.7" stroke="#1c2a63" stroke-width="1"/>
+    <path class="draw" pathLength="100" d="M1051.8 140.0 L1032.4 182.4 L994.4 209.4 L948.0 213.7 L905.6 194.3 L878.7 156.3 L874.3 110.0 L893.7 67.6 L931.7 40.6 L978.1 36.3 L1020.4 55.7 L1047.4 93.7Z" fill="none" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:0.30s"/>
+    <circle class="arrive" style="animation-delay:0.35s" cx="1051.8" cy="140.0" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:0.59s" cx="1032.4" cy="182.4" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:0.83s" cx="994.4" cy="209.4" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:1.07s" cx="948.0" cy="213.7" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:1.32s" cx="905.6" cy="194.3" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:1.56s" cx="878.7" cy="156.3" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:1.80s" cx="874.3" cy="110.0" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:2.04s" cx="893.7" cy="67.6" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:2.28s" cx="931.7" cy="40.6" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:2.52s" cx="978.1" cy="36.3" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:2.77s" cx="1020.4" cy="55.7" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="arrive" style="animation-delay:3.01s" cx="1047.4" cy="93.7" r="7" fill="#0f1328" stroke="#99b4f6" stroke-width="2.5"/>
+    <circle class="halo" cx="963.0" cy="125.0" r="12" fill="none" stroke="#99b4f6" stroke-width="2"/>
+    <circle class="breathe" cx="963.0" cy="125.0" r="10" fill="#2966eb"/>
+    <rect x="0.0" y="248" width="200.5" height="12" fill="#dc2626"/><rect x="200.0" y="248" width="200.5" height="12" fill="#ea580c"/><rect x="400.0" y="248" width="200.5" height="12" fill="#ca8a04"/><rect x="600.0" y="248" width="200.5" height="12" fill="#16a34a"/><rect x="800.0" y="248" width="200.5" height="12" fill="#2563eb"/><rect x="1000.0" y="248" width="200.5" height="12" fill="#7c3aed"/>
+    <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif"><text x="56" y="72.0" fill="#5182ef" font-size="15" font-weight="700" letter-spacing=".6">The Holy Earth Foundation</text><text x="56" y="137.6" fill="#f5f3ff" font-size="60" font-weight="700" letter-spacing="-.5">David Amaringo</text><text x="56" y="181.4" fill="#d6d5e4" font-size="23">A home online for Amazonian visionary art.</text></g>
+  </g>
+</svg>

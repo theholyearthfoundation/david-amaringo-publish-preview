@@ -1,8 +1,27 @@
+<!-- readme-standard: 2026-11-02 -->
+<div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="David Amaringo: a twelve-sided kaleidoscopic form draws itself in rainbow colours and turns slowly.">
+
 # David Amaringo 🌿🎨 — Amazonian Visionary Art
+
+*A home online for Maestro David Amaringo, visionary artist and teacher.*
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](LICENSE) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%8C%B1%20Early%20Foundation-orange)](https://github.com/drasticstatic/david-amaringo)
+![For](https://img.shields.io/badge/For-Visitors_and_builders-64748b?style=flat-square)
+
+<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** The Holy Earth Foundation › source `david-amaringo` (private) → twins `david-amaringo-publish-preview` (rehearsal) and `david-amaringo-public` (live) · `preview` is the working branch
+
+</div>
+
+## <img src="assets/icons/compass.svg" width="24" height="24" alt=""> TL;DR
+
+1. <img src="assets/icons/sprout.svg" width="16" height="16" alt=""> **What this is.** A simple, dignified home online for David: his art, his teaching lineage and his work with the foundation. A showcase, not a storefront.
+2. <img src="assets/icons/users-round.svg" width="16" height="16" alt=""> **Who it is for.** Anyone looking for David's work. The builder and helpers work here.
+3. <img src="assets/icons/footprints.svg" width="16" height="16" alt=""> **Do this first.** `npm install`, then `npm run dev`, and open <http://localhost:3000>.
 
 > *A home online for Maestro David Amaringo — Ayahuasca visionary artist, Chaiconi Bari healer, trained by his uncle, the legendary Pablo Cesar Amaringo Shuña, founder of the USKO-AYAR Amazonian School of Painting.*
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](LICENSE) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%8C%B1%20Early%20Foundation-orange)](https://github.com/drasticstatic/david-amaringo)
 
 ---
 
@@ -106,6 +125,10 @@ npm run build
 ---
 
 <a id="license"></a>
+## <img src="assets/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
+
+Noticed something? Open an [issue](https://github.com/theholyearthfoundation/david-amaringo/issues) or a pull request against `preview`; the foundation's stewards read them, and a Promote pull request from `preview` to `main` waits for a person with the role. The source is private, so a visitor sees a 404 there. Not on GitHub? Reach the foundation through [iamoneself.com](https://www.iamoneself.com).
+
 ## 📜 License
 
 This repository is the private development source — not licensed for
@@ -129,3 +152,5 @@ Two consequences worth stating plainly:
   and a short list of named documents, never the source tree.
 - **This repository remains the historical origin.** If the work continues elsewhere, this copy
   stays as the record of how it was built, rather than being emptied or redirected.
+
+<sub>The front door follows the living [README standard](https://github.com/drasticstatic/my-template/blob/main/README-STANDARD.md). Copy it, improve it.</sub>
