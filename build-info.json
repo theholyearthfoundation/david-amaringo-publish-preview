@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "46a7ab9757447eb04b3b19c0d5a64a8ce638ee71",
-  "shortCommit": "46a7ab9",
-  "message": ":memo: docs(readme): david-amaringo gets a front door of its own",
+  "commit": "132d0e73cee0c7be41c4a2bdeeec02d37921c5a5",
+  "shortCommit": "132d0e7",
+  "message": ":lock: security(tripwire): scanner copy refreshed (own-repo links and their anchor text)",
   "author": "drasticstatic",
-  "committedAt": "2026-11-02T22:43:55-05:00",
-  "builtAt": "2026-11-03T03:45:34.946Z"
+  "committedAt": "2026-11-04T12:06:55-05:00",
+  "builtAt": "2026-11-04T17:08:31.903Z"
 }
