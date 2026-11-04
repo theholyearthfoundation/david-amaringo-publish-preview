@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "132d0e73cee0c7be41c4a2bdeeec02d37921c5a5",
-  "shortCommit": "132d0e7",
-  "message": ":lock: security(tripwire): scanner copy refreshed (own-repo links and their anchor text)",
+  "commit": "6f841802a5eba1207a0c427083417f465a781b5c",
+  "shortCommit": "6f84180",
+  "message": ":lock: security(tripwire): scanner copy refreshed (repository names are public)",
   "author": "drasticstatic",
-  "committedAt": "2026-11-04T12:06:55-05:00",
-  "builtAt": "2026-11-04T17:08:31.903Z"
+  "committedAt": "2026-11-04T12:26:02-05:00",
+  "builtAt": "2026-11-04T17:27:29.257Z"
 }
