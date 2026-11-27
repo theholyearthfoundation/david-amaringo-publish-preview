@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "c39df1134bd442e3d59a8926c5e6183e40106f86",
-  "shortCommit": "c39df11",
-  "message": ":memo: docs(claude): working here: session order, warn first, attesting stays with the organisation",
-  "author": "drasticstatic",
-  "committedAt": "2026-11-06T08:16:19-05:00",
-  "builtAt": "2026-11-06T13:17:46.199Z"
+  "commit": "ca70722d6d3d44a5ca1ab03e7abfb1bdfa020166",
+  "shortCommit": "ca70722",
+  "message": ":lock: security(tripwire): scanner copy refreshed (v5) (#21)",
+  "author": "Christopher Stephen Wilson",
+  "committedAt": "2026-11-27T01:11:22-05:00",
+  "builtAt": "2026-11-27T06:12:37.987Z"
 }
